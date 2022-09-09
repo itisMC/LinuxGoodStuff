@@ -1,4 +1,4 @@
-# Marcelo's Alias                                                                                       
+# MC's Alias                                                                                       
 alias c='clear'                                                                                         
 alias lx='ls -lahF --group-directories-first'                                                           
 ## Alias para previnir erros                                                                            
