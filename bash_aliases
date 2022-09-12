@@ -17,5 +17,8 @@ alias update='sudo apt-get update && sudo apt-get upgrade'
 ## Other updates
 alias myip='curl ipinfo.io/ip'
 ##Navegacao em diretorios
+alias home="cd ~"
 alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
 
