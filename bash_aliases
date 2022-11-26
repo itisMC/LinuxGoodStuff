@@ -13,7 +13,7 @@ alias chown='chown --preserve-root'
 alias chmod='chmod --preserve-root'                                                                     
 alias chgrp='chgrp --presenve-root'                                                                     
 ## Update                                                                                              
-alias update='sudo apt-get update -y && sudo apt-get upgrade -y'
+alias update='sudo apt-get -y update && sudo apt-get -y upgrade'
 ## Other updates
 alias myip='curl ipinfo.io/ip'
 ##Navegacao em diretorios
